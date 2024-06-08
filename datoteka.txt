@@ -1,6 +1,3 @@
 Andras Jurcak
-<<<<<<< HEAD
 25.03.1987
-=======
 Garry Kasparov
->>>>>>> test1
